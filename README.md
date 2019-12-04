@@ -2,7 +2,7 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3551928.svg)](https://doi.org/10.5281/zenodo.3551928)
 
-This is a dataset for colloidal fouling in electrodialysis, published at Zenodo. The *raw* directory contains the raw time series data. A jupyter notebook (Python 3.7) is provided, *dataProcessing.ipynb* to illustrate how to use and analyse this data. 
+This is a notebook to analyse a dataset for colloidal fouling during electrodialysis, published at Zenodo.
 
 ## How to get this thing running
 
