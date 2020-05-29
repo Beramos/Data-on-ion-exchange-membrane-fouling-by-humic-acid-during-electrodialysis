@@ -13,5 +13,8 @@ This work should be cited as follows,
 ## How to get this running
 
 1. Clone this repository
-2. Download dataset from the [Zenodo repository](https://zenodo.org/deposit/3551928#)
-3. Copy this data into the base of this repository.
+2. Run [the jupyter notebook](https://github.com/Beramos/Data-on-ion-exchange-membrane-fouling-by-humic-acid-during-electrodialysis/blob/master/dataProcessing.ipynb)
+
+or 
+
+Open the notebook with [binder](https://mybinder.org/v2/gh/Beramos/Data-on-ion-exchange-membrane-fouling-by-humic-acid-during-electrodialysis/master?filepath=dataProcessing.ipynb)
