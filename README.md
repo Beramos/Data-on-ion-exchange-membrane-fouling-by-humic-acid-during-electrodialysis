@@ -2,7 +2,7 @@
 
 This is a notebook to analyse a dataset for colloidal fouling during electrodialysis, published at Zenodo.
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3551928.svg)](https://doi.org/10.5281/zenodo.3551928)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3551928.svg)](https://doi.org/10.5281/zenodo.3551928) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Beramos/Data-on-ion-exchange-membrane-fouling-by-humic-acid-during-electrodialysis/master?filepath=dataProcessing.ipynb)
 
 ## Citing
 This work should be cited as follows,
