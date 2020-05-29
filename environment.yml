@@ -1,0 +1,13 @@
+name: Data-processing-HA-fouling
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - pip
+  - ipython
+  - jupyter
+  - notebook
+  - seaborn
+  - matplotlib>3
+  - numpy
+  - pandas
